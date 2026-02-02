@@ -1,0 +1,36 @@
+# Compiled executables
+*.exe
+*.out
+*.o
+*.obj
+*.a
+
+# Debug files
+*.dSYM/
+*.pdb
+*.ilk
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+Thumbs.db
+desktop.ini
+
+# Build directories
+build/
+bin/
+obj/
+Debug/
+Release/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
